@@ -1,4 +1,4 @@
-/* This program will take 3 arguments through CLI and print the largest number among the numbers
+/* This program will take 3 arguments through CLI and print the largest number among the three numbers
  
 use syntax  =====>  cargo new -- arg1 arg2 arg5
 */
